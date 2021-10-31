@@ -19,3 +19,4 @@ Cette fonction est bloquee pendant les tours d'evaluation.
 
 Utilisateur fixe le nombre de tours et peux lancer levaluation des cellule tour par tour. un bouton stop arrete le prossesus si l'utilisateur le desir.
 
+A chaque tour les cellules sont evalue individuellenemt
